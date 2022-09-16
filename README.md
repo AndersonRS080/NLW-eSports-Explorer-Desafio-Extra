@@ -1,5 +1,5 @@
 # NLW-eSports 
-![image](https://user-images.githubusercontent.com/105132452/190487526-6647ee41-cf36-4bde-a172-aeb3b50824e9.png)
+![image](https://user-images.githubusercontent.com/105132452/190727778-e14de3ca-d3fd-4ff1-b8ec-8cfb5ce54c88.png)
 >Trilha Explorer Desafio-Extra
 ## Sobre o projeto:
 
