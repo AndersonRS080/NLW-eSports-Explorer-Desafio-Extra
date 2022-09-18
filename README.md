@@ -5,7 +5,7 @@
 
 Desafio proposto no stage 5/6 no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://andersonrs080.github.io/NLW-eSports-Explorer-Desafio-Extra/)
+[🔗 Clique aqui para acessar](https://AndersonRodrigs.github.io/NLW-eSports-Explorer-Desafio-Extra/)
 
 ## 🛠 Tecnologias:
 
