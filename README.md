@@ -11,7 +11,7 @@ Desafio proposto no stage 5/6 no evento Next Level Week da Rocketseat.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""> <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""><br>
-## Lib.js: [ScrollReveal](https://scrollrevealjs.org/)
+### Lib.js: [ScrollReveal](https://scrollrevealjs.org/)
 
 
 <!--# Autor:-->
